@@ -1,5 +1,6 @@
 def my_each(collection)
-while <= 5
+  i = 0
+while 
   puts i
 end
 while
